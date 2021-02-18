@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  background: #f0f0f0;
+}
+
+main{
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 50px;
+  background: #111111;
+
+}
+
+canvas:hover {
+  cursor: none;
+}
+
+canvas {
+  background: black;
+}
